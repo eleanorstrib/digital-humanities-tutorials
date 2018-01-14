@@ -1,4 +1,4 @@
-This code is fully explained in a post on my technical blog, Agatha.
+This code is fully explained in a [post](https://medium.com/agatha-codes/using-textual-analysis-to-quantify-a-cast-of-characters-4f3baecdb5c) on my technical blog, [Agatha](https://medium.com/agatha-codes).
 
 This program is designed to be run in the command line/terminal.
 
