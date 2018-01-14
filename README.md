@@ -9,4 +9,4 @@ You'll need the following installed to run it:
 
 When you have that set up, run this file by typing `python characters.py` in the terminal/command line.
 
-If you have any questions or feedback about the code, please comment on the accompanying blog post.
+If you have any questions or feedback about the code, please comment on the accompanying [blog post](https://medium.com/agatha-codes/using-textual-analysis-to-quantify-a-cast-of-characters-4f3baecdb5c).
